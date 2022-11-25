@@ -58,9 +58,4 @@ router.get('/secretdata', redirectLogin, (req, res) => {
   return res.status(200).end('the prime number is 2305843009213693951');
 });
 
-router.get('/test', redirectLogin, (req, res) => {
-  // enter your code here
-  return res.status(200).end('test~');
-});
-
 module.exports = router;
