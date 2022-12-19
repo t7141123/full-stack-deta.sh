@@ -4,6 +4,8 @@
   </div>
 </template>
 
-<style>
-@import url('/css/bootstrap.min.css');
-</style>
+<script>
+export default {
+  name: 'App'
+}
+</script>
