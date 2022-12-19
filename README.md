@@ -1,12 +1,13 @@
-# deta.sh-OrgChart
-Organization chart build with deta.sh.
+# full-stack-deta.sh
 
-此專案分為前端(client - Vue.js)與後端(server - Express.js)
+Full stack with deta.sh.
 
-## 前端：
+此專案分為前端(client - Vue.js)與後端(server - Express.js)，
 
-To be continue...
+## Front-end:
 
-## 後端：
+Base on 'Vue Element admin' template with Vue.js.
 
-架設於deta.sh server上做驗證。
+## Back-end:
+
+Design api and verify back-end on [deta.sh](https://www.deta.sh/) service.
